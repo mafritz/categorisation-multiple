@@ -1,0 +1,9 @@
+img.draggable {
+    width: 75px;
+    height: 75px;
+    z-index: 1000;
+}
+
+.droppable {
+    min-height: 200px;
+}
