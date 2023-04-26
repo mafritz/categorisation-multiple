@@ -2,6 +2,7 @@
 $(".draggable").draggable({
   helper: "clone",
   cursor: "move",
+  containment: "document",
 });
 
 //Ajouter les éléments trainés et mettre à jour le total
