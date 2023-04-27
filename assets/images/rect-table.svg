@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200pt" height="1200pt" version="1.1" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+ <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2">
+  <path transform="scale(25)" d="m47 19.013h-46l7.195-8.4289h31.609z"/>
+  <path transform="scale(25)" d="m6.5091 37.416v-17.701"/>
+  <path transform="scale(25)" d="m41.488 37.416v-17.701"/>
+  <path transform="scale(25)" d="m12.409 19.715v8.85"/>
+  <path transform="scale(25)" d="m35.589 19.715v8.85"/>
+ </g>
+</svg>
